@@ -1,0 +1,22 @@
+left: violin right:acoustic_guitar
+file: acoustic_guitarviolin.wav
+Complete.
+left: acoustic_guitar right:saxophone
+file: saxophoneacoustic_guitar.wav
+Complete.
+left: flute right:trumpet
+file: flutetrumpet.wav
+Complete.
+left: cello right:acoustic_guitar
+file: celloacoustic_guitar.wav
+Complete.
+left: flute right:violin
+file: fluteviolin.wav
+Complete.
+left: flute right:xylophone
+file: xylophoneflute.wav
+Complete.
+left: acoustic_guitar right:xylophone
+file: xylophoneacoustic_guitar.wav
+Complete.
+totally cost: 475.745141029

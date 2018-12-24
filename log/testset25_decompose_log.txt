@@ -1,0 +1,79 @@
+left: acoustic_guitar right:violin
+file: acoustic_guitar_2_violin_1.wav
+Complete.
+left: saxophone right:violin
+file: saxophone_2_violin_2.wav
+Complete.
+left: acoustic_guitar right:violin
+file: acoustic_guitar_1_violin_2.wav
+Complete.
+left: accordion right:saxophone
+file: accordion_4_saxophone_3.wav
+Complete.
+left: acoustic_guitar right:flute
+file: acoustic_guitar_6_flute_3.wav
+Complete.
+left: accordion right:saxophone
+file: accordion_6_saxophone_2.wav
+Complete.
+left: flute right:accordion
+file: flute_3_xylophone_2.wav
+Complete.
+left: acoustic_guitar right:flute
+file: acoustic_guitar_4_flute_2.wav
+Complete.
+left: flute right:saxophone
+file: flute_3_saxophone_3.wav
+Complete.
+>>>>Special Case>>>>
+left: flute right:saxophone
+file: flute_2_saxophone_1.wav
+Complete.
+left: accordion right:acoustic_guitar
+file: accordion_3_acoustic_guitar_3.wav
+Complete.
+left: accordion right:acoustic_guitar
+file: accordion_2_acoustic_guitar_2.wav
+Complete.
+left: flute right:saxophone
+file: flute_4_saxophone_2.wav
+Complete.
+left: flute right:violin
+file: saxophone_1_violin_4.wav
+Complete.
+left: flute right:trumpet
+file: flute_3_trumpet_5.wav
+Complete.
+left: flute right:xylophone
+file: flute_1_xylophone_5.wav
+Complete.
+left: cello right:flute
+file: cello_4_flute_5.wav
+Complete.
+>>>>Special Case>>>>
+left: acoustic_guitar right:violin
+file: acoustic_guitar_5_violin_3.wav
+Complete.
+left: accordion right:cello
+file: accordion_2_cello_3.wav
+Complete.
+>>>>Special Case>>>>
+left: accordion right:saxophone
+file: accordion_1_saxophone_1.wav
+Complete.
+left: flute right:trumpet
+file: flute_5_trumpet_4.wav
+Complete.
+left: cello right:flute
+file: cello_2_flute_2.wav
+Complete.
+left: accordion right:cello
+file: accordion_5_cello_1.wav
+Complete.
+left: cello right:trumpet
+file: flute_4_trumpet_1.wav
+Complete.
+left: saxophone right:violin
+file: saxophone_3_violin_3.wav
+Complete.
+totally cost: 2136.10550714
